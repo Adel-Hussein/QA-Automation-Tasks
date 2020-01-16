@@ -1,0 +1,839 @@
+2020-01-16 08:44:20,665 INFO  [Log] ************************************************** 
+2020-01-16 08:44:20,666 INFO  [Log] $$$$$$$$$$$$$$SearchChair  $$$$$$$$$$$$$$$$$ 
+2020-01-16 08:44:20,666 INFO  [Log] ************************************************** 
+2020-01-16 08:44:21,051 INFO  [Log]  Excel sheet opened 
+2020-01-16 08:44:23,481 INFO  [Log] New driver instantiated 
+2020-01-16 08:44:23,488 INFO  [Log] Implicit wait applied on the driver for 10 seconds 
+2020-01-16 08:44:31,402 INFO  [Log] Web application launched successfully 
+2020-01-16 08:44:31,904 INFO  [Log] Search Key picked from Excel is Chair 
+2020-01-16 08:44:32,236 INFO  [Log] Search Bar element found 
+2020-01-16 08:44:32,315 INFO  [Log] Search Key entered in the Search Bar 
+2020-01-16 08:44:32,359 INFO  [Log] flyout element found 
+2020-01-16 08:44:32,426 INFO  [Log] There is No Suggested Search Terms .. 
+2020-01-16 08:44:32,426 INFO  [Log] There is No Suggested Products .. 
+2020-01-16 08:44:36,476 INFO  [Log] Browser closed 
+2020-01-16 08:44:36,477 INFO  [Log] X 
+2020-01-16 08:44:36,477 INFO  [Log] XXXXXXXXXX  -E---N---D-  XXXXXXXXXXX 
+2020-01-16 08:44:36,477 INFO  [Log] $$$$$$$$$$$$$$SearchChair  $$$$$$$$$$$$$$$$$ 
+2020-01-16 08:44:36,477 INFO  [Log] X 
+2020-01-16 08:50:19,043 INFO  [Log] ************************************************** 
+2020-01-16 08:50:19,044 INFO  [Log] $$$$$$$$$$$$$$SearchChair  $$$$$$$$$$$$$$$$$ 
+2020-01-16 08:50:19,044 INFO  [Log] ************************************************** 
+2020-01-16 08:50:19,451 INFO  [Log]  Excel sheet opened 
+2020-01-16 08:50:21,864 INFO  [Log] New driver instantiated 
+2020-01-16 08:50:21,872 INFO  [Log] Implicit wait applied on the driver for 10 seconds 
+2020-01-16 08:50:33,112 INFO  [Log] Web application launched successfully 
+2020-01-16 08:50:33,617 INFO  [Log] Search Key picked from Excel is Chair 
+2020-01-16 08:50:33,746 INFO  [Log] Search Bar element found 
+2020-01-16 08:50:33,796 INFO  [Log] Search Key entered in the Search Bar 
+2020-01-16 08:50:33,815 INFO  [Log] flyout element found 
+2020-01-16 08:50:33,868 INFO  [Log] There is No Suggested Search Terms .. 
+2020-01-16 08:50:33,868 INFO  [Log] There is No Suggested Products .. 
+2020-01-16 08:50:37,892 INFO  [Log] Browser closed 
+2020-01-16 08:50:37,893 INFO  [Log] X 
+2020-01-16 08:50:37,893 INFO  [Log] XXXXXXXXXX  -E---N---D-  XXXXXXXXXXX 
+2020-01-16 08:50:37,893 INFO  [Log] $$$$$$$$$$$$$$SearchChair  $$$$$$$$$$$$$$$$$ 
+2020-01-16 08:50:37,893 INFO  [Log] X 
+2020-01-16 08:59:55,817 INFO  [Log] ************************************************** 
+2020-01-16 08:59:55,818 INFO  [Log] $$$$$$$$$$$$$$SearchChair  $$$$$$$$$$$$$$$$$ 
+2020-01-16 08:59:55,818 INFO  [Log] ************************************************** 
+2020-01-16 08:59:56,205 INFO  [Log]  Excel sheet opened 
+2020-01-16 08:59:58,659 INFO  [Log] New driver instantiated 
+2020-01-16 08:59:58,667 INFO  [Log] Implicit wait applied on the driver for 10 seconds 
+2020-01-16 09:00:05,892 INFO  [Log] Web application launched successfully 
+2020-01-16 09:00:06,419 INFO  [Log] Search Key picked from Excel is Chair 
+2020-01-16 09:00:06,854 INFO  [Log] Search Bar element found 
+2020-01-16 09:00:06,964 INFO  [Log] Search Key entered in the Search Bar 
+2020-01-16 09:01:00,843 INFO  [Log] flyout element found 
+2020-01-16 09:01:08,003 INFO  [Log] There is No Suggested Search Terms .. 
+2020-01-16 09:01:08,003 INFO  [Log] There is No Suggested Products .. 
+2020-01-16 09:01:44,558 INFO  [Log] ************************************************** 
+2020-01-16 09:01:44,558 INFO  [Log] $$$$$$$$$$$$$$SearchChair  $$$$$$$$$$$$$$$$$ 
+2020-01-16 09:01:44,558 INFO  [Log] ************************************************** 
+2020-01-16 09:01:45,077 INFO  [Log]  Excel sheet opened 
+2020-01-16 09:01:48,128 INFO  [Log] New driver instantiated 
+2020-01-16 09:01:48,140 INFO  [Log] Implicit wait applied on the driver for 10 seconds 
+2020-01-16 09:02:01,947 INFO  [Log] Web application launched successfully 
+2020-01-16 09:02:02,502 INFO  [Log] Search Key picked from Excel is Chair 
+2020-01-16 09:02:02,875 INFO  [Log] Search Bar element found 
+2020-01-16 09:02:02,956 INFO  [Log] Search Key entered in the Search Bar 
+2020-01-16 09:02:18,113 INFO  [Log] flyout element found 
+2020-01-16 09:02:55,583 INFO  [Log] There is No Suggested Search Terms .. 
+2020-01-16 09:02:55,583 INFO  [Log] There is No Suggested Products .. 
+2020-01-16 09:02:56,478 INFO  [Log] Browser closed 
+2020-01-16 09:02:56,478 INFO  [Log] X 
+2020-01-16 09:02:56,479 INFO  [Log] XXXXXXXXXX  -E---N---D-  XXXXXXXXXXX 
+2020-01-16 09:02:56,479 INFO  [Log] $$$$$$$$$$$$$$SearchChair  $$$$$$$$$$$$$$$$$ 
+2020-01-16 09:02:56,479 INFO  [Log] X 
+2020-01-16 09:05:31,398 INFO  [Log] ************************************************** 
+2020-01-16 09:05:31,399 INFO  [Log] $$$$$$$$$$$$$$SearchChair  $$$$$$$$$$$$$$$$$ 
+2020-01-16 09:05:31,399 INFO  [Log] ************************************************** 
+2020-01-16 09:05:31,956 INFO  [Log]  Excel sheet opened 
+2020-01-16 09:05:35,197 INFO  [Log] New driver instantiated 
+2020-01-16 09:05:35,244 INFO  [Log] Implicit wait applied on the driver for 10 seconds 
+2020-01-16 09:05:43,957 INFO  [Log] Web application launched successfully 
+2020-01-16 09:05:44,516 INFO  [Log] Search Key picked from Excel is Chair 
+2020-01-16 09:05:44,719 INFO  [Log] Search Bar element found 
+2020-01-16 09:05:44,822 INFO  [Log] Search Key entered in the Search Bar 
+2020-01-16 09:06:00,892 INFO  [Log] flyout element found 
+2020-01-16 09:14:18,905 INFO  [Log] ************************************************** 
+2020-01-16 09:14:18,906 INFO  [Log] $$$$$$$$$$$$$$SearchChair  $$$$$$$$$$$$$$$$$ 
+2020-01-16 09:14:18,906 INFO  [Log] ************************************************** 
+2020-01-16 09:14:19,855 INFO  [Log]  Excel sheet opened 
+2020-01-16 09:14:24,568 INFO  [Log] New driver instantiated 
+2020-01-16 09:14:24,628 INFO  [Log] Implicit wait applied on the driver for 10 seconds 
+2020-01-16 09:14:37,989 INFO  [Log] Web application launched successfully 
+2020-01-16 09:14:38,538 INFO  [Log] Search Key picked from Excel is Chair 
+2020-01-16 09:14:38,584 INFO  [Log] Search Bar element found 
+2020-01-16 09:14:38,737 INFO  [Log] Search Key entered in the Search Bar 
+2020-01-16 09:14:39,544 INFO  [Log] flyout element found 
+2020-01-16 09:14:39,618 INFO  [Log] There is No Suggested Search Terms .. 
+2020-01-16 09:14:39,618 INFO  [Log] There is No Suggested Products .. 
+2020-01-16 09:14:43,979 INFO  [Log] Browser closed 
+2020-01-16 09:14:43,979 INFO  [Log] X 
+2020-01-16 09:14:43,979 INFO  [Log] XXXXXXXXXX  -E---N---D-  XXXXXXXXXXX 
+2020-01-16 09:14:43,979 INFO  [Log] $$$$$$$$$$$$$$SearchChair  $$$$$$$$$$$$$$$$$ 
+2020-01-16 09:14:43,979 INFO  [Log] X 
+2020-01-16 09:21:09,821 INFO  [Log] ************************************************** 
+2020-01-16 09:21:09,821 INFO  [Log] $$$$$$$$$$$$$$SearchChair  $$$$$$$$$$$$$$$$$ 
+2020-01-16 09:21:09,821 INFO  [Log] ************************************************** 
+2020-01-16 09:21:10,169 INFO  [Log]  Excel sheet opened 
+2020-01-16 09:21:12,583 INFO  [Log] New driver instantiated 
+2020-01-16 09:21:12,593 INFO  [Log] Implicit wait applied on the driver for 10 seconds 
+2020-01-16 09:21:20,616 INFO  [Log] Web application launched successfully 
+2020-01-16 09:21:21,147 INFO  [Log] Search Key picked from Excel is Chair 
+2020-01-16 09:21:21,309 INFO  [Log] Search Bar element found 
+2020-01-16 09:21:21,380 INFO  [Log] Search Key entered in the Search Bar 
+2020-01-16 09:21:21,904 INFO  [Log] Search Bar element found 
+2020-01-16 09:21:21,945 INFO  [Log] flyout element found 
+2020-01-16 09:21:21,997 INFO  [Log] There is No Suggested Search Terms .. 
+2020-01-16 09:21:21,998 INFO  [Log] There is No Suggested Products .. 
+2020-01-16 09:21:25,965 INFO  [Log] Browser closed 
+2020-01-16 09:21:25,965 INFO  [Log] X 
+2020-01-16 09:21:25,965 INFO  [Log] XXXXXXXXXX  -E---N---D-  XXXXXXXXXXX 
+2020-01-16 09:21:25,966 INFO  [Log] $$$$$$$$$$$$$$SearchChair  $$$$$$$$$$$$$$$$$ 
+2020-01-16 09:21:25,966 INFO  [Log] X 
+2020-01-16 09:23:42,725 INFO  [Log] ************************************************** 
+2020-01-16 09:23:42,725 INFO  [Log] $$$$$$$$$$$$$$SearchChair  $$$$$$$$$$$$$$$$$ 
+2020-01-16 09:23:42,725 INFO  [Log] ************************************************** 
+2020-01-16 09:23:43,089 INFO  [Log]  Excel sheet opened 
+2020-01-16 09:23:45,499 INFO  [Log] New driver instantiated 
+2020-01-16 09:23:45,507 INFO  [Log] Implicit wait applied on the driver for 10 seconds 
+2020-01-16 09:23:50,953 INFO  [Log] Web application launched successfully 
+2020-01-16 09:23:51,464 INFO  [Log] Search Key picked from Excel is Chair 
+2020-01-16 09:23:51,718 INFO  [Log] Search Bar element found 
+2020-01-16 09:23:51,776 INFO  [Log] Search Key entered in the Search Bar 
+2020-01-16 09:23:56,794 INFO  [Log] Search Bar element found 
+2020-01-16 09:23:56,825 INFO  [Log] flyout element found 
+2020-01-16 09:23:56,877 INFO  [Log] There is No Suggested Search Terms .. 
+2020-01-16 09:23:56,878 INFO  [Log] There is No Suggested Products .. 
+2020-01-16 09:24:00,678 INFO  [Log] Browser closed 
+2020-01-16 09:24:00,678 INFO  [Log] X 
+2020-01-16 09:24:00,678 INFO  [Log] XXXXXXXXXX  -E---N---D-  XXXXXXXXXXX 
+2020-01-16 09:24:00,678 INFO  [Log] $$$$$$$$$$$$$$SearchChair  $$$$$$$$$$$$$$$$$ 
+2020-01-16 09:24:00,678 INFO  [Log] X 
+2020-01-16 09:44:32,209 INFO  [Log] ************************************************** 
+2020-01-16 09:44:32,209 INFO  [Log] $$$$$$$$$$$$$$SearchChair  $$$$$$$$$$$$$$$$$ 
+2020-01-16 09:44:32,209 INFO  [Log] ************************************************** 
+2020-01-16 09:44:32,574 INFO  [Log]  Excel sheet opened 
+2020-01-16 09:44:35,065 INFO  [Log] New driver instantiated 
+2020-01-16 09:44:35,075 INFO  [Log] Implicit wait applied on the driver for 10 seconds 
+2020-01-16 09:44:48,219 INFO  [Log] Web application launched successfully 
+2020-01-16 09:44:48,701 INFO  [Log] Search Key picked from Excel is Chair 
+2020-01-16 09:44:48,981 INFO  [Log] Search Bar element found 
+2020-01-16 09:44:49,089 INFO  [Log] Search Key entered in the Search Bar 
+2020-01-16 09:44:54,108 INFO  [Log] flyout element found 
+2020-01-16 09:44:57,912 INFO  [Log] Browser closed 
+2020-01-16 09:44:57,912 INFO  [Log] X 
+2020-01-16 09:44:57,912 INFO  [Log] XXXXXXXXXX  -E---N---D-  XXXXXXXXXXX 
+2020-01-16 09:44:57,912 INFO  [Log] $$$$$$$$$$$$$$SearchChair  $$$$$$$$$$$$$$$$$ 
+2020-01-16 09:44:57,912 INFO  [Log] X 
+2020-01-16 09:48:15,119 INFO  [Log] ************************************************** 
+2020-01-16 09:48:15,120 INFO  [Log] $$$$$$$$$$$$$$SearchChair  $$$$$$$$$$$$$$$$$ 
+2020-01-16 09:48:15,120 INFO  [Log] ************************************************** 
+2020-01-16 09:48:15,500 INFO  [Log]  Excel sheet opened 
+2020-01-16 09:48:18,001 INFO  [Log] New driver instantiated 
+2020-01-16 09:48:18,020 INFO  [Log] Implicit wait applied on the driver for 10 seconds 
+2020-01-16 09:48:23,837 INFO  [Log] Web application launched successfully 
+2020-01-16 09:48:24,400 INFO  [Log] Search Key picked from Excel is Chair 
+2020-01-16 09:48:24,457 INFO  [Log] Search Bar element found 
+2020-01-16 09:48:24,518 INFO  [Log] Search Key entered in the Search Bar 
+2020-01-16 09:48:29,531 INFO  [Log] flyout element found 
+2020-01-16 09:48:34,361 INFO  [Log] Browser closed 
+2020-01-16 09:48:34,361 INFO  [Log] X 
+2020-01-16 09:48:34,361 INFO  [Log] XXXXXXXXXX  -E---N---D-  XXXXXXXXXXX 
+2020-01-16 09:48:34,361 INFO  [Log] $$$$$$$$$$$$$$SearchChair  $$$$$$$$$$$$$$$$$ 
+2020-01-16 09:48:34,361 INFO  [Log] X 
+2020-01-16 09:52:59,497 INFO  [Log] ************************************************** 
+2020-01-16 09:52:59,498 INFO  [Log] $$$$$$$$$$$$$$SearchChair  $$$$$$$$$$$$$$$$$ 
+2020-01-16 09:52:59,498 INFO  [Log] ************************************************** 
+2020-01-16 09:52:59,856 INFO  [Log]  Excel sheet opened 
+2020-01-16 09:53:02,270 INFO  [Log] New driver instantiated 
+2020-01-16 09:53:02,280 INFO  [Log] Implicit wait applied on the driver for 10 seconds 
+2020-01-16 09:53:09,349 INFO  [Log] Web application launched successfully 
+2020-01-16 09:53:09,893 INFO  [Log] Search Key picked from Excel is Chair 
+2020-01-16 09:53:10,192 INFO  [Log] Search Bar element found 
+2020-01-16 09:53:10,274 INFO  [Log] Search Key entered in the Search Bar 
+2020-01-16 09:53:19,164 INFO  [Log] Browser closed 
+2020-01-16 09:53:19,165 INFO  [Log] X 
+2020-01-16 09:53:19,165 INFO  [Log] XXXXXXXXXX  -E---N---D-  XXXXXXXXXXX 
+2020-01-16 09:53:19,165 INFO  [Log] $$$$$$$$$$$$$$SearchChair  $$$$$$$$$$$$$$$$$ 
+2020-01-16 09:53:19,166 INFO  [Log] X 
+2020-01-16 10:02:41,033 INFO  [Log] ************************************************** 
+2020-01-16 10:02:41,034 INFO  [Log] $$$$$$$$$$$$$$SearchChair  $$$$$$$$$$$$$$$$$ 
+2020-01-16 10:02:41,034 INFO  [Log] ************************************************** 
+2020-01-16 10:02:41,402 INFO  [Log]  Excel sheet opened 
+2020-01-16 10:02:43,826 INFO  [Log] New driver instantiated 
+2020-01-16 10:02:43,835 INFO  [Log] Implicit wait applied on the driver for 10 seconds 
+2020-01-16 10:02:52,316 INFO  [Log] Web application launched successfully 
+2020-01-16 10:02:52,843 INFO  [Log] Search Key picked from Excel is Chair 
+2020-01-16 10:02:52,966 INFO  [Log] Search Bar element found 
+2020-01-16 10:02:53,037 INFO  [Log] Search Key entered in the Search Bar 
+2020-01-16 10:02:58,213 INFO  [Log] flyout element found 
+2020-01-16 10:03:02,012 INFO  [Log] Browser closed 
+2020-01-16 10:03:02,012 INFO  [Log] X 
+2020-01-16 10:03:02,012 INFO  [Log] XXXXXXXXXX  -E---N---D-  XXXXXXXXXXX 
+2020-01-16 10:03:02,012 INFO  [Log] $$$$$$$$$$$$$$SearchChair  $$$$$$$$$$$$$$$$$ 
+2020-01-16 10:03:02,012 INFO  [Log] X 
+2020-01-16 10:04:08,441 INFO  [Log] ************************************************** 
+2020-01-16 10:04:08,441 INFO  [Log] $$$$$$$$$$$$$$SearchChair  $$$$$$$$$$$$$$$$$ 
+2020-01-16 10:04:08,441 INFO  [Log] ************************************************** 
+2020-01-16 10:04:08,816 INFO  [Log]  Excel sheet opened 
+2020-01-16 10:04:11,214 INFO  [Log] New driver instantiated 
+2020-01-16 10:04:11,220 INFO  [Log] Implicit wait applied on the driver for 10 seconds 
+2020-01-16 10:04:18,202 INFO  [Log] Web application launched successfully 
+2020-01-16 10:04:18,738 INFO  [Log] Search Key picked from Excel is Chair 
+2020-01-16 10:04:18,924 INFO  [Log] Search Bar element found 
+2020-01-16 10:04:19,254 INFO  [Log] Search Key entered in the Search Bar 
+2020-01-16 10:04:24,443 INFO  [Log] flyout element found 
+2020-01-16 10:04:24,478 INFO  [Log] flyout element found 
+2020-01-16 10:04:24,543 INFO  [Log] suggested Search Terms Elements found 
+2020-01-16 10:04:24,697 INFO  [Log] get Suggested Search Terms .. 
+2020-01-16 10:04:24,712 INFO  [Log] suggested Search Terms Elements found 
+2020-01-16 10:04:24,799 INFO  [Log] get Suggested Products .. 
+2020-01-16 10:04:24,799 INFO  [Log] the search process failed 
+2020-01-16 10:04:27,709 INFO  [Log] Browser closed 
+2020-01-16 10:04:27,709 INFO  [Log] X 
+2020-01-16 10:04:27,709 INFO  [Log] XXXXXXXXXX  -E---N---D-  XXXXXXXXXXX 
+2020-01-16 10:04:27,709 INFO  [Log] $$$$$$$$$$$$$$SearchChair  $$$$$$$$$$$$$$$$$ 
+2020-01-16 10:04:27,709 INFO  [Log] X 
+2020-01-16 10:06:15,352 INFO  [Log] ************************************************** 
+2020-01-16 10:06:15,352 INFO  [Log] $$$$$$$$$$$$$$SearchChair  $$$$$$$$$$$$$$$$$ 
+2020-01-16 10:06:15,352 INFO  [Log] ************************************************** 
+2020-01-16 10:06:15,726 INFO  [Log]  Excel sheet opened 
+2020-01-16 10:06:18,154 INFO  [Log] New driver instantiated 
+2020-01-16 10:06:18,166 INFO  [Log] Implicit wait applied on the driver for 10 seconds 
+2020-01-16 10:06:30,584 INFO  [Log] Web application launched successfully 
+2020-01-16 10:06:31,177 INFO  [Log] Search Key picked from Excel is Chair 
+2020-01-16 10:06:31,351 INFO  [Log] Search Bar element found 
+2020-01-16 10:06:31,426 INFO  [Log] Search Key entered in the Search Bar 
+2020-01-16 10:06:36,587 INFO  [Log] flyout element found 
+2020-01-16 10:06:36,615 INFO  [Log] flyout element found 
+2020-01-16 10:06:36,654 INFO  [Log] suggested Search Terms Elements found 
+2020-01-16 10:06:36,794 INFO  [Log] get Suggested Search Terms .. 
+2020-01-16 10:06:36,805 INFO  [Log] suggested Search Terms Elements found 
+2020-01-16 10:06:36,875 INFO  [Log] get Suggested Products .. 
+2020-01-16 10:06:36,875 INFO  [Log] the search process failed 
+2020-01-16 10:06:40,762 INFO  [Log] Browser closed 
+2020-01-16 10:06:40,763 INFO  [Log] X 
+2020-01-16 10:06:40,763 INFO  [Log] XXXXXXXXXX  -E---N---D-  XXXXXXXXXXX 
+2020-01-16 10:06:40,763 INFO  [Log] $$$$$$$$$$$$$$SearchChair  $$$$$$$$$$$$$$$$$ 
+2020-01-16 10:06:40,763 INFO  [Log] X 
+2020-01-16 10:07:02,263 INFO  [Log] ************************************************** 
+2020-01-16 10:07:02,263 INFO  [Log] $$$$$$$$$$$$$$SearchChair  $$$$$$$$$$$$$$$$$ 
+2020-01-16 10:07:02,263 INFO  [Log] ************************************************** 
+2020-01-16 10:07:02,666 INFO  [Log]  Excel sheet opened 
+2020-01-16 10:07:05,223 INFO  [Log] New driver instantiated 
+2020-01-16 10:07:05,249 INFO  [Log] Implicit wait applied on the driver for 10 seconds 
+2020-01-16 10:07:19,038 INFO  [Log] Web application launched successfully 
+2020-01-16 10:07:19,570 INFO  [Log] Search Key picked from Excel is Chair 
+2020-01-16 10:07:19,839 INFO  [Log] Search Bar element found 
+2020-01-16 10:07:19,885 INFO  [Log] Search Key entered in the Search Bar 
+2020-01-16 10:07:25,053 INFO  [Log] flyout element found 
+2020-01-16 10:07:25,082 INFO  [Log] flyout element found 
+2020-01-16 10:15:12,061 INFO  [Log] suggested Search Terms Elements found 
+2020-01-16 10:18:09,485 INFO  [Log] get Suggested Search Terms .. 
+2020-01-16 10:18:14,123 INFO  [Log] suggested Search Terms Elements found 
+2020-01-16 10:19:21,509 INFO  [Log] get Suggested Products .. 
+2020-01-16 10:28:48,351 INFO  [Log] ************************************************** 
+2020-01-16 10:28:48,351 INFO  [Log] $$$$$$$$$$$$$$SearchChair  $$$$$$$$$$$$$$$$$ 
+2020-01-16 10:28:48,351 INFO  [Log] ************************************************** 
+2020-01-16 10:28:48,953 INFO  [Log]  Excel sheet opened 
+2020-01-16 10:28:54,668 INFO  [Log] New driver instantiated 
+2020-01-16 10:28:54,737 INFO  [Log] Implicit wait applied on the driver for 10 seconds 
+2020-01-16 10:29:10,910 INFO  [Log] Web application launched successfully 
+2020-01-16 10:29:11,524 INFO  [Log] Search Key picked from Excel is Chair 
+2020-01-16 10:29:11,658 INFO  [Log] Search Bar element found 
+2020-01-16 10:29:11,884 INFO  [Log] Search Key entered in the Search Bar 
+2020-01-16 10:29:17,180 INFO  [Log] flyout element found 
+2020-01-16 10:29:17,339 INFO  [Log] flyout element found 
+2020-01-16 10:29:40,897 INFO  [Log] suggested Search Terms Elements found 
+2020-01-16 10:30:05,304 INFO  [Log] get Suggested Search Terms .. 
+2020-01-16 10:30:07,340 INFO  [Log] suggested Search Terms Elements found 
+2020-01-16 10:30:22,143 INFO  [Log] get Suggested Products .. 
+2020-01-16 10:55:45,602 INFO  [Log] ************************************************** 
+2020-01-16 10:55:45,602 INFO  [Log] $$$$$$$$$$$$$$SearchChair  $$$$$$$$$$$$$$$$$ 
+2020-01-16 10:55:45,602 INFO  [Log] ************************************************** 
+2020-01-16 10:55:46,415 INFO  [Log]  Excel sheet opened 
+2020-01-16 10:55:50,386 INFO  [Log] New driver instantiated 
+2020-01-16 10:55:50,431 INFO  [Log] Implicit wait applied on the driver for 10 seconds 
+2020-01-16 10:55:59,979 INFO  [Log] Web application launched successfully 
+2020-01-16 10:56:00,564 INFO  [Log] Search Key picked from Excel is Chair 
+2020-01-16 10:56:01,140 INFO  [Log] Search Bar element found 
+2020-01-16 10:56:01,236 INFO  [Log] Search Key entered in the Search Bar 
+2020-01-16 10:56:06,470 INFO  [Log] flyout element found 
+2020-01-16 10:56:06,515 INFO  [Log] flyout element found 
+2020-01-16 10:56:06,602 INFO  [Log] suggested Search Terms Elements found 
+2020-01-16 10:56:07,047 INFO  [Log] get Suggested Search Terms .. 
+2020-01-16 10:56:07,068 INFO  [Log] suggested Search Terms Elements found 
+2020-01-16 10:56:07,298 INFO  [Log] get Suggested Products .. 
+2020-01-16 11:28:35,580 INFO  [Log] ************************************************** 
+2020-01-16 11:28:35,582 INFO  [Log] $$$$$$$$$$$$$$SearchChair  $$$$$$$$$$$$$$$$$ 
+2020-01-16 11:28:35,582 INFO  [Log] ************************************************** 
+2020-01-16 11:28:36,982 INFO  [Log]  Excel sheet opened 
+2020-01-16 11:28:42,913 INFO  [Log] New driver instantiated 
+2020-01-16 11:28:42,961 INFO  [Log] Implicit wait applied on the driver for 10 seconds 
+2020-01-16 11:28:53,720 INFO  [Log] Web application launched successfully 
+2020-01-16 11:28:54,301 INFO  [Log] Search Key picked from Excel is Chair 
+2020-01-16 11:28:54,939 INFO  [Log] Search Bar element found 
+2020-01-16 11:28:55,072 INFO  [Log] Search Key entered in the Search Bar 
+2020-01-16 11:29:00,352 INFO  [Log] flyout element found 
+2020-01-16 11:29:00,510 INFO  [Log] flyout element found 
+2020-01-16 11:29:00,650 INFO  [Log] suggested Search Terms Elements found 
+2020-01-16 11:29:01,281 INFO  [Log] get Suggested Search Terms .. 
+2020-01-16 11:29:01,337 INFO  [Log] suggested Search Terms Elements found 
+2020-01-16 11:29:01,654 INFO  [Log] get Suggested Products .. 
+2020-01-16 11:29:01,656 INFO  [Log] the search process failed 
+2020-01-16 11:29:07,330 INFO  [Log] Browser closed 
+2020-01-16 11:29:07,330 INFO  [Log] X 
+2020-01-16 11:29:07,330 INFO  [Log] XXXXXXXXXX  -E---N---D-  XXXXXXXXXXX 
+2020-01-16 11:29:07,330 INFO  [Log] $$$$$$$$$$$$$$SearchChair  $$$$$$$$$$$$$$$$$ 
+2020-01-16 11:29:07,331 INFO  [Log] X 
+2020-01-16 11:29:30,366 INFO  [Log] ************************************************** 
+2020-01-16 11:29:30,367 INFO  [Log] $$$$$$$$$$$$$$SearchChair  $$$$$$$$$$$$$$$$$ 
+2020-01-16 11:29:30,367 INFO  [Log] ************************************************** 
+2020-01-16 11:29:31,916 INFO  [Log]  Excel sheet opened 
+2020-01-16 11:29:38,192 INFO  [Log] New driver instantiated 
+2020-01-16 11:29:38,232 INFO  [Log] Implicit wait applied on the driver for 10 seconds 
+2020-01-16 11:29:48,855 INFO  [Log] Web application launched successfully 
+2020-01-16 11:29:49,385 INFO  [Log] Search Key picked from Excel is Chair 
+2020-01-16 11:29:50,090 INFO  [Log] Search Bar element found 
+2020-01-16 11:29:50,375 INFO  [Log] Search Key entered in the Search Bar 
+2020-01-16 11:29:55,673 INFO  [Log] flyout element found 
+2020-01-16 11:29:55,778 INFO  [Log] flyout element found 
+2020-01-16 11:29:55,917 INFO  [Log] suggested Search Terms Elements found 
+2020-01-16 11:29:56,494 INFO  [Log] get Suggested Search Terms .. 
+2020-01-16 11:29:56,551 INFO  [Log] suggested Search Terms Elements found 
+2020-01-16 11:29:56,823 INFO  [Log] get Suggested Products .. 
+2020-01-16 11:43:10,523 INFO  [Log] ************************************************** 
+2020-01-16 11:43:10,523 INFO  [Log] $$$$$$$$$$$$$$SearchChair  $$$$$$$$$$$$$$$$$ 
+2020-01-16 11:43:10,523 INFO  [Log] ************************************************** 
+2020-01-16 11:43:12,558 INFO  [Log]  Excel sheet opened 
+2020-01-16 11:43:21,648 INFO  [Log] New driver instantiated 
+2020-01-16 11:43:21,690 INFO  [Log] Implicit wait applied on the driver for 10 seconds 
+2020-01-16 11:43:35,438 INFO  [Log] Web application launched successfully 
+2020-01-16 11:43:35,992 INFO  [Log] Search Key picked from Excel is Chair 
+2020-01-16 11:43:36,048 INFO  [Log] Search Bar element found 
+2020-01-16 11:43:36,239 INFO  [Log] Search Key entered in the Search Bar 
+2020-01-16 11:43:41,639 INFO  [Log] flyout element found 
+2020-01-16 11:43:41,829 INFO  [Log] flyout element found 
+2020-01-16 11:43:42,060 INFO  [Log] suggested Search Terms Elements found 
+2020-01-16 11:43:42,738 INFO  [Log] get Suggested Search Terms .. 
+2020-01-16 11:43:42,779 INFO  [Log] suggested Search Terms Elements found 
+2020-01-16 11:43:43,105 INFO  [Log] get Suggested Products .. 
+2020-01-16 11:43:43,106 INFO  [Log] Suggested Search Terms List : Pass 
+2020-01-16 11:43:43,106 INFO  [Log] Suggested Products List : Fail 
+2020-01-16 11:43:43,106 INFO  [Log] the total search process result is failed 
+2020-01-16 11:43:49,773 INFO  [Log] Browser closed 
+2020-01-16 11:43:49,773 INFO  [Log] X 
+2020-01-16 11:43:49,773 INFO  [Log] XXXXXXXXXX  -E---N---D-  XXXXXXXXXXX 
+2020-01-16 11:43:49,773 INFO  [Log] $$$$$$$$$$$$$$SearchChair  $$$$$$$$$$$$$$$$$ 
+2020-01-16 11:43:49,773 INFO  [Log] X 
+2020-01-16 11:45:54,158 INFO  [Log] ************************************************** 
+2020-01-16 11:45:54,158 INFO  [Log] $$$$$$$$$$$$$$SearchChair  $$$$$$$$$$$$$$$$$ 
+2020-01-16 11:45:54,158 INFO  [Log] ************************************************** 
+2020-01-16 11:45:54,573 INFO  [Log]  Excel sheet opened 
+2020-01-16 11:45:57,152 INFO  [Log] New driver instantiated 
+2020-01-16 11:45:57,166 INFO  [Log] Implicit wait applied on the driver for 10 seconds 
+2020-01-16 11:46:08,213 INFO  [Log] Web application launched successfully 
+2020-01-16 11:46:08,768 INFO  [Log] Search Key picked from Excel is Chair 
+2020-01-16 11:46:08,962 INFO  [Log] Search Bar element found 
+2020-01-16 11:46:09,035 INFO  [Log] Search Key entered in the Search Bar 
+2020-01-16 11:46:14,197 INFO  [Log] flyout element found 
+2020-01-16 11:46:14,256 INFO  [Log] suggested Search Terms Elements found 
+2020-01-16 11:46:14,382 INFO  [Log] get Suggested Search Terms .. 
+2020-01-16 11:46:14,390 INFO  [Log] suggested Search Terms Elements found 
+2020-01-16 11:46:14,452 INFO  [Log] get Suggested Products .. 
+2020-01-16 11:46:14,453 INFO  [Log] Suggested Search Terms List : Pass 
+2020-01-16 11:46:14,453 INFO  [Log] Suggested Products List : Fail 
+2020-01-16 11:46:14,453 INFO  [Log] the total search process result is failed 
+2020-01-16 11:46:20,441 INFO  [Log] Browser closed 
+2020-01-16 11:46:20,442 INFO  [Log] X 
+2020-01-16 11:46:20,442 INFO  [Log] XXXXXXXXXX  -E---N---D-  XXXXXXXXXXX 
+2020-01-16 11:46:20,442 INFO  [Log] $$$$$$$$$$$$$$SearchChair  $$$$$$$$$$$$$$$$$ 
+2020-01-16 11:46:20,442 INFO  [Log] X 
+2020-01-16 11:51:16,422 INFO  [Log] ************************************************** 
+2020-01-16 11:51:16,422 INFO  [Log] $$$$$$$$$$$$$$SearchBed  $$$$$$$$$$$$$$$$$ 
+2020-01-16 11:51:16,422 INFO  [Log] ************************************************** 
+2020-01-16 11:51:16,820 INFO  [Log]  Excel sheet opened 
+2020-01-16 11:51:19,241 INFO  [Log] New driver instantiated 
+2020-01-16 11:51:19,250 INFO  [Log] Implicit wait applied on the driver for 10 seconds 
+2020-01-16 11:51:27,863 INFO  [Log] Web application launched successfully 
+2020-01-16 11:51:28,393 INFO  [Log] Search Key picked from Excel is Bed 
+2020-01-16 11:51:28,499 INFO  [Log] Search Bar element found 
+2020-01-16 11:51:28,572 INFO  [Log] Search Key entered in the Search Bar 
+2020-01-16 11:51:33,744 INFO  [Log] flyout element found 
+2020-01-16 11:51:33,827 INFO  [Log] suggested Search Terms Elements found 
+2020-01-16 11:51:33,989 INFO  [Log] get Suggested Search Terms .. 
+2020-01-16 11:51:33,999 INFO  [Log] suggested Search Terms Elements found 
+2020-01-16 11:51:34,073 INFO  [Log] get Suggested Products .. 
+2020-01-16 11:51:34,073 INFO  [Log] Suggested Search Terms List : Pass 
+2020-01-16 11:51:34,073 INFO  [Log] Suggested Products List : Pass 
+2020-01-16 11:51:34,074 INFO  [Log] the total search process result is  passd 
+2020-01-16 11:51:39,044 INFO  [Log] Browser closed 
+2020-01-16 11:51:39,044 INFO  [Log] X 
+2020-01-16 11:51:39,044 INFO  [Log] XXXXXXXXXX  -E---N---D-  XXXXXXXXXXX 
+2020-01-16 11:51:39,044 INFO  [Log] $$$$$$$$$$$$$$SearchBed  $$$$$$$$$$$$$$$$$ 
+2020-01-16 11:51:39,044 INFO  [Log] X 
+2020-01-16 11:53:27,924 INFO  [Log] ************************************************** 
+2020-01-16 11:53:27,924 INFO  [Log] $$$$$$$$$$$$$$SearchChair  $$$$$$$$$$$$$$$$$ 
+2020-01-16 11:53:27,924 INFO  [Log] ************************************************** 
+2020-01-16 11:53:28,292 INFO  [Log]  Excel sheet opened 
+2020-01-16 11:53:30,692 INFO  [Log] New driver instantiated 
+2020-01-16 11:53:30,701 INFO  [Log] Implicit wait applied on the driver for 10 seconds 
+2020-01-16 11:53:37,696 INFO  [Log] Web application launched successfully 
+2020-01-16 11:53:38,219 INFO  [Log] Search Key picked from Excel is Chair 
+2020-01-16 11:53:38,258 INFO  [Log] Search Bar element found 
+2020-01-16 11:53:38,345 INFO  [Log] Search Key entered in the Search Bar 
+2020-01-16 11:53:43,510 INFO  [Log] flyout element found 
+2020-01-16 11:53:43,573 INFO  [Log] suggested Search Terms Elements found 
+2020-01-16 11:53:43,720 INFO  [Log] get Suggested Search Terms .. 
+2020-01-16 11:53:43,728 INFO  [Log] suggested Search Terms Elements found 
+2020-01-16 11:53:43,791 INFO  [Log] get Suggested Products .. 
+2020-01-16 11:53:43,791 INFO  [Log] Suggested Search Terms List : Pass 
+2020-01-16 11:53:43,791 INFO  [Log] Suggested Products List : Fail 
+2020-01-16 11:53:43,791 INFO  [Log] the total search process result is failed 
+2020-01-16 11:53:46,676 INFO  [Log] Browser closed 
+2020-01-16 11:53:46,677 INFO  [Log] X 
+2020-01-16 11:53:46,677 INFO  [Log] XXXXXXXXXX  -E---N---D-  XXXXXXXXXXX 
+2020-01-16 11:53:46,677 INFO  [Log] $$$$$$$$$$$$$$SearchChair  $$$$$$$$$$$$$$$$$ 
+2020-01-16 11:53:46,677 INFO  [Log] X 
+2020-01-16 11:53:46,685 INFO  [Log] ************************************************** 
+2020-01-16 11:53:46,686 INFO  [Log] $$$$$$$$$$$$$$SearchBed  $$$$$$$$$$$$$$$$$ 
+2020-01-16 11:53:46,686 INFO  [Log] ************************************************** 
+2020-01-16 11:53:46,719 INFO  [Log]  Excel sheet opened 
+2020-01-16 11:53:48,729 INFO  [Log] New driver instantiated 
+2020-01-16 11:53:48,736 INFO  [Log] Implicit wait applied on the driver for 10 seconds 
+2020-01-16 11:53:55,715 INFO  [Log] Web application launched successfully 
+2020-01-16 11:53:56,228 INFO  [Log] Search Key picked from Excel is Bed 
+2020-01-16 11:53:56,624 INFO  [Log] Search Bar element found 
+2020-01-16 11:53:56,702 INFO  [Log] Search Key entered in the Search Bar 
+2020-01-16 11:54:01,846 INFO  [Log] flyout element found 
+2020-01-16 11:54:01,905 INFO  [Log] suggested Search Terms Elements found 
+2020-01-16 11:54:02,043 INFO  [Log] get Suggested Search Terms .. 
+2020-01-16 11:54:02,059 INFO  [Log] suggested Search Terms Elements found 
+2020-01-16 11:54:02,124 INFO  [Log] get Suggested Products .. 
+2020-01-16 11:54:02,124 INFO  [Log] Suggested Search Terms List : Pass 
+2020-01-16 11:54:02,124 INFO  [Log] Suggested Products List : Pass 
+2020-01-16 11:54:02,124 INFO  [Log] the total search process result is  passd 
+2020-01-16 11:54:06,956 INFO  [Log] Browser closed 
+2020-01-16 11:54:06,956 INFO  [Log] X 
+2020-01-16 11:54:06,956 INFO  [Log] XXXXXXXXXX  -E---N---D-  XXXXXXXXXXX 
+2020-01-16 11:54:06,956 INFO  [Log] $$$$$$$$$$$$$$SearchBed  $$$$$$$$$$$$$$$$$ 
+2020-01-16 11:54:06,956 INFO  [Log] X 
+2020-01-16 11:56:32,267 INFO  [Log] ************************************************** 
+2020-01-16 11:56:32,267 INFO  [Log] $$$$$$$$$$$$$$SearchChair  $$$$$$$$$$$$$$$$$ 
+2020-01-16 11:56:32,267 INFO  [Log] ************************************************** 
+2020-01-16 11:56:32,633 INFO  [Log]  Excel sheet opened 
+2020-01-16 11:56:35,171 INFO  [Log] New driver instantiated 
+2020-01-16 11:56:35,180 INFO  [Log] Implicit wait applied on the driver for 10 seconds 
+2020-01-16 11:56:46,198 INFO  [Log] Web application launched successfully 
+2020-01-16 11:56:46,695 INFO  [Log] Search Key picked from Excel is wjhdvf 
+2020-01-16 11:56:46,910 INFO  [Log] Search Bar element found 
+2020-01-16 11:56:46,982 INFO  [Log] Search Key entered in the Search Bar 
+2020-01-16 11:56:55,836 INFO  [Log] Browser closed 
+2020-01-16 11:56:55,837 INFO  [Log] X 
+2020-01-16 11:56:55,837 INFO  [Log] XXXXXXXXXX  -E---N---D-  XXXXXXXXXXX 
+2020-01-16 11:56:55,837 INFO  [Log] $$$$$$$$$$$$$$SearchChair  $$$$$$$$$$$$$$$$$ 
+2020-01-16 11:56:55,837 INFO  [Log] X 
+2020-01-16 11:59:10,720 INFO  [Log] ************************************************** 
+2020-01-16 11:59:10,721 INFO  [Log] $$$$$$$$$$$$$$SearchChair  $$$$$$$$$$$$$$$$$ 
+2020-01-16 11:59:10,721 INFO  [Log] ************************************************** 
+2020-01-16 11:59:11,085 INFO  [Log]  Excel sheet opened 
+2020-01-16 11:59:13,526 INFO  [Log] New driver instantiated 
+2020-01-16 11:59:13,536 INFO  [Log] Implicit wait applied on the driver for 10 seconds 
+2020-01-16 11:59:20,358 INFO  [Log] Web application launched successfully 
+2020-01-16 11:59:20,882 INFO  [Log] Search Key picked from Excel is wjhdvf 
+2020-01-16 11:59:21,152 INFO  [Log] Search Bar element found 
+2020-01-16 11:59:21,258 INFO  [Log] Search Key entered in the Search Bar 
+2020-01-16 11:59:31,111 INFO  [Log] Browser closed 
+2020-01-16 11:59:31,111 INFO  [Log] X 
+2020-01-16 11:59:31,112 INFO  [Log] XXXXXXXXXX  -E---N---D-  XXXXXXXXXXX 
+2020-01-16 11:59:31,112 INFO  [Log] $$$$$$$$$$$$$$SearchChair  $$$$$$$$$$$$$$$$$ 
+2020-01-16 11:59:31,112 INFO  [Log] X 
+2020-01-16 12:09:42,441 INFO  [Log] ************************************************** 
+2020-01-16 12:09:42,442 INFO  [Log] $$$$$$$$$$$$$$SearchChair  $$$$$$$$$$$$$$$$$ 
+2020-01-16 12:09:42,442 INFO  [Log] ************************************************** 
+2020-01-16 12:09:42,819 INFO  [Log]  Excel sheet opened 
+2020-01-16 12:09:45,234 INFO  [Log] New driver instantiated 
+2020-01-16 12:09:45,241 INFO  [Log] Implicit wait applied on the driver for 10 seconds 
+2020-01-16 12:09:52,998 INFO  [Log] Web application launched successfully 
+2020-01-16 12:09:53,511 INFO  [Log] Search Key picked from Excel is wjhdvf 
+2020-01-16 12:09:53,704 INFO  [Log] Search Bar element found 
+2020-01-16 12:09:53,794 INFO  [Log] Search Key entered in the Search Bar 
+2020-01-16 12:09:58,852 INFO  [Log] We could not find results forSearchChair 
+2020-01-16 12:10:03,701 INFO  [Log] Browser closed 
+2020-01-16 12:10:03,701 INFO  [Log] X 
+2020-01-16 12:10:03,701 INFO  [Log] XXXXXXXXXX  -E---N---D-  XXXXXXXXXXX 
+2020-01-16 12:10:03,701 INFO  [Log] $$$$$$$$$$$$$$SearchChair  $$$$$$$$$$$$$$$$$ 
+2020-01-16 12:10:03,701 INFO  [Log] X 
+2020-01-16 12:14:26,102 INFO  [Log] ************************************************** 
+2020-01-16 12:14:26,102 INFO  [Log] $$$$$$$$$$$$$$SearchChair  $$$$$$$$$$$$$$$$$ 
+2020-01-16 12:14:26,102 INFO  [Log] ************************************************** 
+2020-01-16 12:14:26,473 INFO  [Log]  Excel sheet opened 
+2020-01-16 12:14:28,871 INFO  [Log] New driver instantiated 
+2020-01-16 12:14:28,878 INFO  [Log] Implicit wait applied on the driver for 10 seconds 
+2020-01-16 12:14:41,290 INFO  [Log] Web application launched successfully 
+2020-01-16 12:14:41,815 INFO  [Log] Search Key picked from Excel is wjhdvf 
+2020-01-16 12:14:41,981 INFO  [Log] Search Bar element found 
+2020-01-16 12:14:42,032 INFO  [Log] Search Key entered in the Search Bar 
+2020-01-16 12:14:47,080 WARN  [Log] flyout element Not found 
+2020-01-16 12:14:47,080 INFO  [Log] We could not find results forSearchChair 
+2020-01-16 12:14:50,919 INFO  [Log] Browser closed 
+2020-01-16 12:14:50,919 INFO  [Log] X 
+2020-01-16 12:14:50,919 INFO  [Log] XXXXXXXXXX  -E---N---D-  XXXXXXXXXXX 
+2020-01-16 12:14:50,919 INFO  [Log] $$$$$$$$$$$$$$SearchChair  $$$$$$$$$$$$$$$$$ 
+2020-01-16 12:14:50,919 INFO  [Log] X 
+2020-01-16 12:15:43,573 INFO  [Log] ************************************************** 
+2020-01-16 12:15:43,573 INFO  [Log] $$$$$$$$$$$$$$SearchChair  $$$$$$$$$$$$$$$$$ 
+2020-01-16 12:15:43,573 INFO  [Log] ************************************************** 
+2020-01-16 12:15:43,944 INFO  [Log]  Excel sheet opened 
+2020-01-16 12:15:46,415 INFO  [Log] New driver instantiated 
+2020-01-16 12:15:46,434 INFO  [Log] Implicit wait applied on the driver for 10 seconds 
+2020-01-16 12:15:53,809 INFO  [Log] Web application launched successfully 
+2020-01-16 12:15:54,369 INFO  [Log] Search Key picked from Excel is Chair 
+2020-01-16 12:15:54,498 INFO  [Log] Search Bar element found 
+2020-01-16 12:15:54,596 INFO  [Log] Search Key entered in the Search Bar 
+2020-01-16 12:15:59,759 INFO  [Log] flyout element found 
+2020-01-16 12:15:59,829 INFO  [Log] suggested Search Terms Elements found 
+2020-01-16 12:15:59,960 INFO  [Log] get Suggested Search Terms .. 
+2020-01-16 12:15:59,971 INFO  [Log] suggested Search Terms Elements found 
+2020-01-16 12:16:00,036 INFO  [Log] get Suggested Products .. 
+2020-01-16 12:16:00,036 INFO  [Log] Suggested Search Terms List : Pass 
+2020-01-16 12:16:00,036 INFO  [Log] Suggested Products List : Fail 
+2020-01-16 12:16:00,037 INFO  [Log] the total search process result is failed 
+2020-01-16 12:16:05,072 INFO  [Log] Browser closed 
+2020-01-16 12:16:05,073 INFO  [Log] X 
+2020-01-16 12:16:05,073 INFO  [Log] XXXXXXXXXX  -E---N---D-  XXXXXXXXXXX 
+2020-01-16 12:16:05,073 INFO  [Log] $$$$$$$$$$$$$$SearchChair  $$$$$$$$$$$$$$$$$ 
+2020-01-16 12:16:05,073 INFO  [Log] X 
+2020-01-16 12:18:42,250 INFO  [Log] ************************************************** 
+2020-01-16 12:18:42,250 INFO  [Log] $$$$$$$$$$$$$$SearchChair  $$$$$$$$$$$$$$$$$ 
+2020-01-16 12:18:42,251 INFO  [Log] ************************************************** 
+2020-01-16 12:18:42,614 INFO  [Log]  Excel sheet opened 
+2020-01-16 12:18:45,023 INFO  [Log] New driver instantiated 
+2020-01-16 12:18:45,030 INFO  [Log] Implicit wait applied on the driver for 10 seconds 
+2020-01-16 12:18:53,294 INFO  [Log] Web application launched successfully 
+2020-01-16 12:18:53,824 INFO  [Log] Search Key picked from Excel is Chair 
+2020-01-16 12:18:53,848 INFO  [Log] Search Bar element found 
+2020-01-16 12:18:53,959 INFO  [Log] Search Key entered in the Search Bar 
+2020-01-16 12:18:59,117 INFO  [Log] flyout element found 
+2020-01-16 12:18:59,204 INFO  [Log] suggested Search Terms Elements found 
+2020-01-16 12:18:59,369 INFO  [Log] get Suggested Search Terms .. 
+2020-01-16 12:18:59,377 INFO  [Log] suggested Search Terms Elements found 
+2020-01-16 12:18:59,449 INFO  [Log] get Suggested Products .. 
+2020-01-16 12:18:59,450 INFO  [Log] Suggested Search Terms List : Pass 
+2020-01-16 12:18:59,450 INFO  [Log] Suggested Products List : Fail 
+2020-01-16 12:18:59,450 INFO  [Log] the total search process result is failed 
+2020-01-16 12:19:03,385 INFO  [Log] Browser closed 
+2020-01-16 12:19:03,385 INFO  [Log] X 
+2020-01-16 12:19:03,385 INFO  [Log] XXXXXXXXXX  -E---N---D-  XXXXXXXXXXX 
+2020-01-16 12:19:03,385 INFO  [Log] $$$$$$$$$$$$$$SearchChair  $$$$$$$$$$$$$$$$$ 
+2020-01-16 12:19:03,385 INFO  [Log] X 
+2020-01-16 12:19:03,396 INFO  [Log] ************************************************** 
+2020-01-16 12:19:03,397 INFO  [Log] $$$$$$$$$$$$$$SearchBed  $$$$$$$$$$$$$$$$$ 
+2020-01-16 12:19:03,397 INFO  [Log] ************************************************** 
+2020-01-16 12:19:03,427 INFO  [Log]  Excel sheet opened 
+2020-01-16 12:19:05,433 INFO  [Log] New driver instantiated 
+2020-01-16 12:19:05,439 INFO  [Log] Implicit wait applied on the driver for 10 seconds 
+2020-01-16 12:19:10,935 INFO  [Log] Web application launched successfully 
+2020-01-16 12:19:11,419 INFO  [Log] Search Key picked from Excel is Bed 
+2020-01-16 12:19:11,679 INFO  [Log] Search Bar element found 
+2020-01-16 12:19:11,736 INFO  [Log] Search Key entered in the Search Bar 
+2020-01-16 12:19:16,886 INFO  [Log] flyout element found 
+2020-01-16 12:19:16,944 INFO  [Log] suggested Search Terms Elements found 
+2020-01-16 12:19:17,138 INFO  [Log] get Suggested Search Terms .. 
+2020-01-16 12:19:17,148 INFO  [Log] suggested Search Terms Elements found 
+2020-01-16 12:19:17,205 INFO  [Log] get Suggested Products .. 
+2020-01-16 12:19:17,205 INFO  [Log] Suggested Search Terms List : Pass 
+2020-01-16 12:19:17,205 INFO  [Log] Suggested Products List : Pass 
+2020-01-16 12:19:17,205 INFO  [Log] the total search process result is  passd 
+2020-01-16 12:19:22,947 INFO  [Log] Browser closed 
+2020-01-16 12:19:22,947 INFO  [Log] X 
+2020-01-16 12:19:22,947 INFO  [Log] XXXXXXXXXX  -E---N---D-  XXXXXXXXXXX 
+2020-01-16 12:19:22,947 INFO  [Log] $$$$$$$$$$$$$$SearchBed  $$$$$$$$$$$$$$$$$ 
+2020-01-16 12:19:22,948 INFO  [Log] X 
+2020-01-16 13:15:33,470 INFO  [Log] ************************************************** 
+2020-01-16 13:15:33,470 INFO  [Log] $$$$$$$$$$$$$$SearchChair  $$$$$$$$$$$$$$$$$ 
+2020-01-16 13:15:33,470 INFO  [Log] ************************************************** 
+2020-01-16 13:15:33,844 INFO  [Log]  Excel sheet opened 
+2020-01-16 13:15:36,244 INFO  [Log] New driver instantiated 
+2020-01-16 13:15:36,251 INFO  [Log] Implicit wait applied on the driver for 10 seconds 
+2020-01-16 13:15:49,512 INFO  [Log] Web application launched successfully 
+2020-01-16 13:15:50,037 INFO  [Log] Search Key picked from Excel is Chair 
+2020-01-16 13:15:50,245 INFO  [Log] Search Bar element found 
+2020-01-16 13:15:50,334 INFO  [Log] Search Key entered in the Search Bar 
+2020-01-16 13:15:55,496 INFO  [Log] flyout element found 
+2020-01-16 13:15:55,555 INFO  [Log] suggested Search Terms Elements found 
+2020-01-16 13:15:55,688 INFO  [Log] get Suggested Search Terms .. 
+2020-01-16 13:15:55,696 INFO  [Log] suggested Search Terms Elements found 
+2020-01-16 13:15:55,760 INFO  [Log] get Suggested Products .. 
+2020-01-16 13:15:55,760 INFO  [Log] Suggested Search Terms List : Pass 
+2020-01-16 13:15:55,761 INFO  [Log] Suggested Products List : Fail 
+2020-01-16 13:15:55,761 INFO  [Log] the total search process result is failed 
+2020-01-16 13:16:00,761 INFO  [Log] Browser closed 
+2020-01-16 13:16:00,762 INFO  [Log] X 
+2020-01-16 13:16:00,762 INFO  [Log] XXXXXXXXXX  -E---N---D-  XXXXXXXXXXX 
+2020-01-16 13:16:00,762 INFO  [Log] $$$$$$$$$$$$$$SearchChair  $$$$$$$$$$$$$$$$$ 
+2020-01-16 13:16:00,762 INFO  [Log] X 
+2020-01-16 13:16:00,774 INFO  [Log] ************************************************** 
+2020-01-16 13:16:00,774 INFO  [Log] $$$$$$$$$$$$$$SearchBed  $$$$$$$$$$$$$$$$$ 
+2020-01-16 13:16:00,774 INFO  [Log] ************************************************** 
+2020-01-16 13:16:00,803 INFO  [Log]  Excel sheet opened 
+2020-01-16 13:16:02,805 INFO  [Log] New driver instantiated 
+2020-01-16 13:16:02,813 INFO  [Log] Implicit wait applied on the driver for 10 seconds 
+2020-01-16 13:16:11,151 INFO  [Log] Web application launched successfully 
+2020-01-16 13:16:11,702 INFO  [Log] Search Key picked from Excel is Bed 
+2020-01-16 13:16:11,761 INFO  [Log] Search Bar element found 
+2020-01-16 13:16:11,882 INFO  [Log] Search Key entered in the Search Bar 
+2020-01-16 13:16:17,041 INFO  [Log] flyout element found 
+2020-01-16 13:16:17,094 INFO  [Log] suggested Search Terms Elements found 
+2020-01-16 13:16:17,250 INFO  [Log] get Suggested Search Terms .. 
+2020-01-16 13:16:17,257 INFO  [Log] suggested Search Terms Elements found 
+2020-01-16 13:16:17,314 INFO  [Log] get Suggested Products .. 
+2020-01-16 13:16:17,314 INFO  [Log] Suggested Search Terms List : Pass 
+2020-01-16 13:16:17,314 INFO  [Log] Suggested Products List : Pass 
+2020-01-16 13:16:17,314 INFO  [Log] the total search process result is  passd 
+2020-01-16 13:16:21,161 INFO  [Log] Browser closed 
+2020-01-16 13:16:21,161 INFO  [Log] X 
+2020-01-16 13:16:21,161 INFO  [Log] XXXXXXXXXX  -E---N---D-  XXXXXXXXXXX 
+2020-01-16 13:16:21,161 INFO  [Log] $$$$$$$$$$$$$$SearchBed  $$$$$$$$$$$$$$$$$ 
+2020-01-16 13:16:21,161 INFO  [Log] X 
+2020-01-16 13:27:42,055 INFO  [Log] ************************************************** 
+2020-01-16 13:27:42,055 INFO  [Log] $$$$$$$$$$$$$$SearchChair  $$$$$$$$$$$$$$$$$ 
+2020-01-16 13:27:42,055 INFO  [Log] ************************************************** 
+2020-01-16 13:27:42,392 INFO  [Log]  Excel sheet opened 
+2020-01-16 13:27:44,797 INFO  [Log] New driver instantiated 
+2020-01-16 13:27:44,805 INFO  [Log] Implicit wait applied on the driver for 10 seconds 
+2020-01-16 13:27:53,197 INFO  [Log] Web application launched successfully 
+2020-01-16 13:27:53,703 INFO  [Log] Search Key picked from Excel is Chair 
+2020-01-16 13:27:53,756 INFO  [Log] Search Bar element found 
+2020-01-16 13:27:53,981 INFO  [Log] Search Key entered in the Search Bar 
+2020-01-16 13:27:59,143 INFO  [Log] flyout element found 
+2020-01-16 13:27:59,208 INFO  [Log] suggested Search Terms Elements found 
+2020-01-16 13:27:59,358 INFO  [Log] get Suggested Search Terms .. 
+2020-01-16 13:27:59,369 INFO  [Log] suggested Search Terms Elements found 
+2020-01-16 13:27:59,450 INFO  [Log] get Suggested Products .. 
+2020-01-16 13:27:59,450 INFO  [Log] Suggested Search Terms List : Pass 
+2020-01-16 13:27:59,450 INFO  [Log] Suggested Products List : Fail 
+2020-01-16 13:27:59,450 INFO  [Log] the total search process result is failed 
+2020-01-16 13:28:04,398 INFO  [Log] Browser closed 
+2020-01-16 13:28:04,398 INFO  [Log] X 
+2020-01-16 13:28:04,398 INFO  [Log] XXXXXXXXXX  -E---N---D-  XXXXXXXXXXX 
+2020-01-16 13:28:04,399 INFO  [Log] $$$$$$$$$$$$$$SearchChair  $$$$$$$$$$$$$$$$$ 
+2020-01-16 13:28:04,399 INFO  [Log] X 
+2020-01-16 13:28:04,407 INFO  [Log] ************************************************** 
+2020-01-16 13:28:04,407 INFO  [Log] $$$$$$$$$$$$$$SearchBed  $$$$$$$$$$$$$$$$$ 
+2020-01-16 13:28:04,407 INFO  [Log] ************************************************** 
+2020-01-16 13:28:04,439 INFO  [Log]  Excel sheet opened 
+2020-01-16 13:28:06,464 INFO  [Log] New driver instantiated 
+2020-01-16 13:28:06,470 INFO  [Log] Implicit wait applied on the driver for 10 seconds 
+2020-01-16 13:28:11,750 INFO  [Log] Web application launched successfully 
+2020-01-16 13:28:12,258 INFO  [Log] Search Key picked from Excel is Bed 
+2020-01-16 13:28:12,421 INFO  [Log] Search Bar element found 
+2020-01-16 13:28:12,488 INFO  [Log] Search Key entered in the Search Bar 
+2020-01-16 13:28:17,642 INFO  [Log] flyout element found 
+2020-01-16 13:28:17,682 INFO  [Log] suggested Search Terms Elements found 
+2020-01-16 13:28:17,836 INFO  [Log] get Suggested Search Terms .. 
+2020-01-16 13:28:17,848 INFO  [Log] suggested Search Terms Elements found 
+2020-01-16 13:28:17,905 INFO  [Log] get Suggested Products .. 
+2020-01-16 13:28:17,905 INFO  [Log] Suggested Search Terms List : Pass 
+2020-01-16 13:28:17,905 INFO  [Log] Suggested Products List : Pass 
+2020-01-16 13:28:17,905 INFO  [Log] the total search process result is  passd 
+2020-01-16 13:28:26,825 INFO  [Log] Browser closed 
+2020-01-16 13:28:26,825 INFO  [Log] X 
+2020-01-16 13:28:26,826 INFO  [Log] XXXXXXXXXX  -E---N---D-  XXXXXXXXXXX 
+2020-01-16 13:28:26,826 INFO  [Log] $$$$$$$$$$$$$$SearchBed  $$$$$$$$$$$$$$$$$ 
+2020-01-16 13:28:26,826 INFO  [Log] X 
+2020-01-16 13:29:22,199 INFO  [Log] ************************************************** 
+2020-01-16 13:29:22,200 INFO  [Log] $$$$$$$$$$$$$$SearchChair  $$$$$$$$$$$$$$$$$ 
+2020-01-16 13:29:22,200 INFO  [Log] ************************************************** 
+2020-01-16 13:29:22,579 INFO  [Log]  Excel sheet opened 
+2020-01-16 13:29:25,007 INFO  [Log] New driver instantiated 
+2020-01-16 13:29:25,020 INFO  [Log] Implicit wait applied on the driver for 10 seconds 
+2020-01-16 13:29:32,456 INFO  [Log] Web application launched successfully 
+2020-01-16 13:29:33,008 INFO  [Log] Search Key picked from Excel is Chair 
+2020-01-16 13:29:33,324 INFO  [Log] Search Bar element found 
+2020-01-16 13:29:33,404 INFO  [Log] Search Key entered in the Search Bar 
+2020-01-16 13:29:38,577 INFO  [Log] flyout element found 
+2020-01-16 13:29:38,638 INFO  [Log] suggested Search Terms Elements found 
+2020-01-16 13:29:38,784 INFO  [Log] get Suggested Search Terms .. 
+2020-01-16 13:29:38,793 INFO  [Log] suggested Search Terms Elements found 
+2020-01-16 13:29:38,883 INFO  [Log] get Suggested Products .. 
+2020-01-16 13:29:38,883 INFO  [Log] Suggested Search Terms List : Pass 
+2020-01-16 13:29:38,883 INFO  [Log] Suggested Products List : Fail 
+2020-01-16 13:29:38,883 INFO  [Log] the total search process result is failed 
+2020-01-16 13:29:42,820 INFO  [Log] Browser closed 
+2020-01-16 13:29:42,820 INFO  [Log] X 
+2020-01-16 13:29:42,820 INFO  [Log] XXXXXXXXXX  -E---N---D-  XXXXXXXXXXX 
+2020-01-16 13:29:42,821 INFO  [Log] $$$$$$$$$$$$$$SearchChair  $$$$$$$$$$$$$$$$$ 
+2020-01-16 13:29:42,821 INFO  [Log] X 
+2020-01-16 13:29:42,832 INFO  [Log] ************************************************** 
+2020-01-16 13:29:42,832 INFO  [Log] $$$$$$$$$$$$$$SearchBed  $$$$$$$$$$$$$$$$$ 
+2020-01-16 13:29:42,832 INFO  [Log] ************************************************** 
+2020-01-16 13:29:42,868 INFO  [Log]  Excel sheet opened 
+2020-01-16 13:29:44,776 INFO  [Log] New driver instantiated 
+2020-01-16 13:29:44,786 INFO  [Log] Implicit wait applied on the driver for 10 seconds 
+2020-01-16 13:29:50,408 INFO  [Log] Web application launched successfully 
+2020-01-16 13:29:50,907 INFO  [Log] Search Key picked from Excel is dfjgbkjfb 
+2020-01-16 13:29:51,107 INFO  [Log] Search Bar element found 
+2020-01-16 13:29:51,188 INFO  [Log] Search Key entered in the Search Bar 
+2020-01-16 13:29:56,234 WARN  [Log] flyout element Not found 
+2020-01-16 13:29:56,234 INFO  [Log] We could not find results forSearchBed 
+2020-01-16 13:29:59,011 INFO  [Log] Browser closed 
+2020-01-16 13:29:59,011 INFO  [Log] X 
+2020-01-16 13:29:59,012 INFO  [Log] XXXXXXXXXX  -E---N---D-  XXXXXXXXXXX 
+2020-01-16 13:29:59,012 INFO  [Log] $$$$$$$$$$$$$$SearchBed  $$$$$$$$$$$$$$$$$ 
+2020-01-16 13:29:59,012 INFO  [Log] X 
+2020-01-16 13:32:08,453 INFO  [Log] ************************************************** 
+2020-01-16 13:32:08,453 INFO  [Log] $$$$$$$$$$$$$$SearchChair  $$$$$$$$$$$$$$$$$ 
+2020-01-16 13:32:08,454 INFO  [Log] ************************************************** 
+2020-01-16 13:32:08,813 INFO  [Log]  Excel sheet opened 
+2020-01-16 13:32:11,234 INFO  [Log] New driver instantiated 
+2020-01-16 13:32:11,244 INFO  [Log] Implicit wait applied on the driver for 10 seconds 
+2020-01-16 13:32:27,220 INFO  [Log] Web application launched successfully 
+2020-01-16 13:32:27,734 INFO  [Log] Search Key picked from Excel is Chair 
+2020-01-16 13:32:27,860 INFO  [Log] Search Bar element found 
+2020-01-16 13:32:27,945 INFO  [Log] Search Key entered in the Search Bar 
+2020-01-16 13:32:33,122 INFO  [Log] flyout element found 
+2020-01-16 13:32:33,191 INFO  [Log] suggested Search Terms Elements found 
+2020-01-16 13:32:33,335 INFO  [Log] get Suggested Search Terms .. 
+2020-01-16 13:32:33,346 INFO  [Log] suggested Search Terms Elements found 
+2020-01-16 13:32:33,412 INFO  [Log] get Suggested Products .. 
+2020-01-16 13:32:33,412 INFO  [Log] Suggested Search Terms List : Pass 
+2020-01-16 13:32:33,412 INFO  [Log] Suggested Products List : Fail 
+2020-01-16 13:32:33,412 INFO  [Log] the total search process result is failed 
+2020-01-16 13:32:38,423 INFO  [Log] Browser closed 
+2020-01-16 13:32:38,423 INFO  [Log] X 
+2020-01-16 13:32:38,423 INFO  [Log] XXXXXXXXXX  -E---N---D-  XXXXXXXXXXX 
+2020-01-16 13:32:38,423 INFO  [Log] $$$$$$$$$$$$$$SearchChair  $$$$$$$$$$$$$$$$$ 
+2020-01-16 13:32:38,423 INFO  [Log] X 
+2020-01-16 13:32:38,433 INFO  [Log] ************************************************** 
+2020-01-16 13:32:38,433 INFO  [Log] $$$$$$$$$$$$$$SearchBed  $$$$$$$$$$$$$$$$$ 
+2020-01-16 13:32:38,433 INFO  [Log] ************************************************** 
+2020-01-16 13:32:38,476 INFO  [Log]  Excel sheet opened 
+2020-01-16 13:32:40,383 INFO  [Log] New driver instantiated 
+2020-01-16 13:32:40,387 INFO  [Log] Implicit wait applied on the driver for 10 seconds 
+2020-01-16 13:32:48,572 INFO  [Log] Web application launched successfully 
+2020-01-16 13:32:49,094 INFO  [Log] Search Key picked from Excel is Bed 
+2020-01-16 13:32:49,407 INFO  [Log] Search Bar element found 
+2020-01-16 13:32:49,442 INFO  [Log] Search Key entered in the Search Bar 
+2020-01-16 13:32:54,605 INFO  [Log] flyout element found 
+2020-01-16 13:32:54,655 INFO  [Log] suggested Search Terms Elements found 
+2020-01-16 13:32:54,804 INFO  [Log] get Suggested Search Terms .. 
+2020-01-16 13:32:54,811 INFO  [Log] suggested Search Terms Elements found 
+2020-01-16 13:32:54,878 INFO  [Log] get Suggested Products .. 
+2020-01-16 13:32:54,878 INFO  [Log] Suggested Search Terms List : Pass 
+2020-01-16 13:32:54,878 INFO  [Log] Suggested Products List : Pass 
+2020-01-16 13:32:54,878 INFO  [Log] the total search process result is  passd 
+2020-01-16 13:33:00,728 INFO  [Log] Browser closed 
+2020-01-16 13:33:00,728 INFO  [Log] X 
+2020-01-16 13:33:00,728 INFO  [Log] XXXXXXXXXX  -E---N---D-  XXXXXXXXXXX 
+2020-01-16 13:33:00,729 INFO  [Log] $$$$$$$$$$$$$$SearchBed  $$$$$$$$$$$$$$$$$ 
+2020-01-16 13:33:00,729 INFO  [Log] X 
+2020-01-16 13:39:26,537 INFO  [Log] ************************************************** 
+2020-01-16 13:39:26,537 INFO  [Log] $$$$$$$$$$$$$$SearchChair  $$$$$$$$$$$$$$$$$ 
+2020-01-16 13:39:26,537 INFO  [Log] ************************************************** 
+2020-01-16 13:39:26,918 INFO  [Log]  Excel sheet opened 
+2020-01-16 13:39:29,338 INFO  [Log] New driver instantiated 
+2020-01-16 13:39:29,345 INFO  [Log] Implicit wait applied on the driver for 10 seconds 
+2020-01-16 13:39:36,709 INFO  [Log] Web application launched successfully 
+2020-01-16 13:39:37,223 INFO  [Log] Search Key picked from Excel is Chair 
+2020-01-16 13:39:37,402 INFO  [Log] Search Bar element found 
+2020-01-16 13:39:37,481 INFO  [Log] Search Key entered in the Search Bar 
+2020-01-16 13:39:42,654 INFO  [Log] flyout element found 
+2020-01-16 13:39:42,730 INFO  [Log] suggested Search Terms Elements found 
+2020-01-16 13:39:42,868 INFO  [Log] get Suggested Search Terms .. 
+2020-01-16 13:39:42,877 INFO  [Log] suggested Search Terms Elements found 
+2020-01-16 13:39:42,945 INFO  [Log] get Suggested Products .. 
+2020-01-16 13:39:42,945 INFO  [Log] Suggested Search Terms List : Pass 
+2020-01-16 13:39:42,945 INFO  [Log] Suggested Products List : Fail 
+2020-01-16 13:39:42,945 INFO  [Log] the total search process result is failed 
+2020-01-16 13:39:50,903 INFO  [Log] Browser closed 
+2020-01-16 13:39:50,903 INFO  [Log] X 
+2020-01-16 13:39:50,904 INFO  [Log] XXXXXXXXXX  -E---N---D-  XXXXXXXXXXX 
+2020-01-16 13:39:50,904 INFO  [Log] $$$$$$$$$$$$$$SearchChair  $$$$$$$$$$$$$$$$$ 
+2020-01-16 13:39:50,904 INFO  [Log] X 
+2020-01-16 13:39:50,915 INFO  [Log] ************************************************** 
+2020-01-16 13:39:50,915 INFO  [Log] $$$$$$$$$$$$$$SearchBed  $$$$$$$$$$$$$$$$$ 
+2020-01-16 13:39:50,915 INFO  [Log] ************************************************** 
+2020-01-16 13:39:50,956 INFO  [Log]  Excel sheet opened 
+2020-01-16 13:39:52,970 INFO  [Log] New driver instantiated 
+2020-01-16 13:39:52,974 INFO  [Log] Implicit wait applied on the driver for 10 seconds 
+2020-01-16 13:40:00,690 INFO  [Log] Web application launched successfully 
+2020-01-16 13:40:01,212 INFO  [Log] Search Key picked from Excel is Bed 
+2020-01-16 13:40:01,296 INFO  [Log] Search Bar element found 
+2020-01-16 13:40:01,392 INFO  [Log] Search Key entered in the Search Bar 
+2020-01-16 13:40:06,533 INFO  [Log] flyout element found 
+2020-01-16 13:40:06,583 INFO  [Log] suggested Search Terms Elements found 
+2020-01-16 13:40:06,732 INFO  [Log] get Suggested Search Terms .. 
+2020-01-16 13:40:06,739 INFO  [Log] suggested Search Terms Elements found 
+2020-01-16 13:40:06,798 INFO  [Log] get Suggested Products .. 
+2020-01-16 13:40:06,798 INFO  [Log] Suggested Search Terms List : Pass 
+2020-01-16 13:40:06,798 INFO  [Log] Suggested Products List : Pass 
+2020-01-16 13:40:06,799 INFO  [Log] the total search process result is  passd 
+2020-01-16 13:40:10,644 INFO  [Log] Browser closed 
+2020-01-16 13:40:10,644 INFO  [Log] X 
+2020-01-16 13:40:10,644 INFO  [Log] XXXXXXXXXX  -E---N---D-  XXXXXXXXXXX 
+2020-01-16 13:40:10,644 INFO  [Log] $$$$$$$$$$$$$$SearchBed  $$$$$$$$$$$$$$$$$ 
+2020-01-16 13:40:10,645 INFO  [Log] X 
+2020-01-16 13:43:18,136 INFO  [Log] ************************************************** 
+2020-01-16 13:43:18,136 INFO  [Log] $$$$$$$$$$$$$$SearchChair  $$$$$$$$$$$$$$$$$ 
+2020-01-16 13:43:18,137 INFO  [Log] ************************************************** 
+2020-01-16 13:43:18,523 INFO  [Log]  Excel sheet opened 
+2020-01-16 13:43:20,931 INFO  [Log] New driver instantiated 
+2020-01-16 13:43:20,938 INFO  [Log] Implicit wait applied on the driver for 10 seconds 
+2020-01-16 13:43:26,757 INFO  [Log] Web application launched successfully 
+2020-01-16 13:43:27,268 INFO  [Log] Search Key picked from Excel is Chair 
+2020-01-16 13:43:27,414 INFO  [Log] Search Bar element found 
+2020-01-16 13:43:27,473 INFO  [Log] Search Key entered in the Search Bar 
+2020-01-16 13:43:32,619 INFO  [Log] flyout element found 
+2020-01-16 13:43:32,694 INFO  [Log] suggested Search Terms Elements found 
+2020-01-16 13:43:32,839 INFO  [Log] get Suggested Search Terms .. 
+2020-01-16 13:43:32,848 INFO  [Log] suggested Search Terms Elements found 
+2020-01-16 13:43:32,922 INFO  [Log] get Suggested Products .. 
+2020-01-16 13:43:32,922 INFO  [Log] Suggested Search Terms List : Pass 
+2020-01-16 13:43:32,922 INFO  [Log] Suggested Products List : Fail 
+2020-01-16 13:43:32,922 INFO  [Log] the total search process result is failed 
+2020-01-16 13:43:36,930 INFO  [Log] Browser closed 
+2020-01-16 13:43:36,930 INFO  [Log] X 
+2020-01-16 13:43:36,930 INFO  [Log] XXXXXXXXXX  -E---N---D-  XXXXXXXXXXX 
+2020-01-16 13:43:36,930 INFO  [Log] $$$$$$$$$$$$$$SearchChair  $$$$$$$$$$$$$$$$$ 
+2020-01-16 13:43:36,930 INFO  [Log] X 
+2020-01-16 13:43:36,940 INFO  [Log] ************************************************** 
+2020-01-16 13:43:36,940 INFO  [Log] $$$$$$$$$$$$$$SearchBed  $$$$$$$$$$$$$$$$$ 
+2020-01-16 13:43:36,940 INFO  [Log] ************************************************** 
+2020-01-16 13:43:36,973 INFO  [Log]  Excel sheet opened 
+2020-01-16 13:43:38,987 INFO  [Log] New driver instantiated 
+2020-01-16 13:43:38,992 INFO  [Log] Implicit wait applied on the driver for 10 seconds 
+2020-01-16 13:43:44,892 INFO  [Log] Web application launched successfully 
+2020-01-16 13:43:45,391 INFO  [Log] Search Key picked from Excel is hgdhgfdg 
+2020-01-16 13:43:45,536 INFO  [Log] Search Bar element found 
+2020-01-16 13:43:45,590 INFO  [Log] Search Key entered in the Search Bar 
+2020-01-16 13:43:50,638 WARN  [Log] flyout element Not found 
+2020-01-16 13:43:50,639 INFO  [Log] We could not find results forSearchBed 
+2020-01-16 13:43:54,511 INFO  [Log] Browser closed 
+2020-01-16 13:43:54,511 INFO  [Log] X 
+2020-01-16 13:43:54,511 INFO  [Log] XXXXXXXXXX  -E---N---D-  XXXXXXXXXXX 
+2020-01-16 13:43:54,511 INFO  [Log] $$$$$$$$$$$$$$SearchBed  $$$$$$$$$$$$$$$$$ 
+2020-01-16 13:43:54,511 INFO  [Log] X 

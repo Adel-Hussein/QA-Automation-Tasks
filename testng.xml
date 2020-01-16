@@ -1,0 +1,9 @@
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name = "Test - Suite">
+	<test name = "Selenuim Training">
+		<classes>
+			<class name="automationFramework.SearchChair" />
+			<class name="automationFramework.SearchBed" />
+		</classes>
+	</test>
+</suite>
